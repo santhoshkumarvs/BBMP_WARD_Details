@@ -1,0 +1,226 @@
+id,name,area,population,male_population,female_population,sc_population,st_population,assembly_constituency_id,assembly_constituency_name,parliamentary_constituency_id,parliamentary_constituency_name
+1,Kempegowda Ward,14.5092,42913,22239,20674,4047,1426,150,Yelahanka,27,Chikballapur
+2,Chowdeswari Ward,3.3692,42775,22369,20406,4238,917,150,Yelahanka,27,Chikballapur
+3,Atturu,8.2692,42569,22772,19797,4878,1404,150,Yelahanka,27,Chikballapur
+4,Yelahanka Satellite Town,4.6869,43243,22475,20768,6393,1084,150,Yelahanka,27,Chikballapur
+5,Kogilu,17.1989,40396,21229,19167,4943,778,152,Byatarayanapura,24,Bangalore North
+6,Jakkuru,10.653,38616,19937,18679,4589,832,152,Byatarayanapura,24,Bangalore North
+7,Thanisandra,5.8922,37308,19765,17543,3063,1012,152,Byatarayanapura,24,Bangalore North
+8,Amrutahalli,3.572,36446,19192,17254,3441,1227,152,Byatarayanapura,24,Bangalore North
+9,Hebbal Kempapura,6.3379,38273,20086,18187,3224,1136,152,Byatarayanapura,24,Bangalore North
+10,Byatarayanapura,9.0439,37010,19068,17942,2630,1321,152,Byatarayanapura,24,Bangalore North
+11,Kodigehalli,2.342,40183,21283,18900,4595,876,152,Byatarayanapura,24,Bangalore North
+12,Dodda Bommasandra,4.1874,38279,21130,17149,5771,701,152,Byatarayanapura,24,Bangalore North
+13,Vidyaranyapura,2.2938,35174,17812,17362,2835,393,152,Byatarayanapura,24,Bangalore North
+14,Kuvempu Nagar,7.1444,32614,16744,15870,8063,1124,152,Byatarayanapura,24,Bangalore North
+15,Kammagondanahalli,5.7196,42954,22445,20509,8843,1166,155,Dasarahalli,24,Bangalore North
+16,Mallasandra,3.4382,42930,22818,20112,5400,939,155,Dasarahalli,24,Bangalore North
+17,Chikkasandra,3.9588,37486,19694,17792,2612,1014,155,Dasarahalli,24,Bangalore North
+18,Bagalakunte,1.7646,42171,22101,20070,2552,1405,155,Dasarahalli,24,Bangalore North
+19,T Dasarahalli,1.22,39062,20874,18188,2598,771,155,Dasarahalli,24,Bangalore North
+20,Nalagadarenahalli,3.0018,42194,23223,18971,2610,1351,155,Dasarahalli,24,Bangalore North
+21,Chokkasandra,1.9723,41904,23117,18787,2370,1006,155,Dasarahalli,24,Bangalore North
+22,Peenya Industrial Area,4.5138,41867,23097,18770,3796,1266,155,Dasarahalli,24,Bangalore North
+23,Rajagopal Nagar,0.9717,42081,22640,19441,4211,1223,155,Dasarahalli,24,Bangalore North
+24,Hegganahalli,1.6513,39277,21111,18166,2137,789,155,Dasarahalli,24,Bangalore North
+25,Sunkadakatte,1.1668,37573,20294,17279,1875,737,155,Dasarahalli,24,Bangalore North
+26,Dodda Bidarakallu,8.0221,36430,19378,17052,3741,2082,153,Yeshvanthapura,24,Bangalore North
+27,Lingadheeranahalli,5.4019,41562,21890,19672,2875,1386,153,Yeshvanthapura,24,Bangalore North
+28,Herohalli,4.1356,37996,20048,17948,2653,714,153,Yeshvanthapura,24,Bangalore North
+29,Ullalu,6.9131,33366,17484,15882,3801,1110,153,Yeshvanthapura,24,Bangalore North
+30,Nagadevanahalli,3.5525,33053,17117,15936,3254,516,153,Yeshvanthapura,24,Bangalore North
+31,Bande Mutt,6.5188,32762,16807,15955,3508,907,153,Yeshvanthapura,24,Bangalore North
+32,Kengeri,5.2142,34251,17831,16420,3915,699,153,Yeshvanthapura,24,Bangalore North
+33,Hemmigepura,31.0968,36490,19350,17140,4233,608,153,Yeshvanthapura,24,Bangalore North
+34,Jp Park,1.066,42026,21754,20272,4737,725,154,Rajarajeshwari Nagar,23,Bangalore Rural
+35,Yeshwanthpura,1.5373,39295,20171,19124,3039,1018,154,Rajarajeshwari Nagar,23,Bangalore Rural
+36,Jalahalli,5.1693,37959,20285,17674,9010,1416,154,Rajarajeshwari Nagar,23,Bangalore Rural
+37,Peenya,5.1805,35826,18528,17298,5744,1113,154,Rajarajeshwari Nagar,23,Bangalore Rural
+38,Laxmidevi Nagar,1.5366,41919,22080,19839,8974,1329,154,Rajarajeshwari Nagar,23,Bangalore Rural
+39,Laggere,0.9472,38489,20169,18320,3193,845,154,Rajarajeshwari Nagar,23,Bangalore Rural
+40,Chowdeshwari Nagar,1.1112,34976,18268,16708,1488,819,154,Rajarajeshwari Nagar,23,Bangalore Rural
+41,Kottegepalya,3.2775,32666,17253,15413,3581,766,154,Rajarajeshwari Nagar,23,Bangalore Rural
+42,Srigandhadakaval,3.3627,41260,21647,19613,3331,1015,154,Rajarajeshwari Nagar,23,Bangalore Rural
+43,Malathalli,4.2221,37700,19690,18010,4328,1062,154,Rajarajeshwari Nagar,23,Bangalore Rural
+44,Jnana Bharathi Ward,9.7103,35459,18254,17205,2972,737,154,Rajarajeshwari Nagar,23,Bangalore Rural
+45,Rajarajeshwari Nagar,7.9119,40360,20693,19667,2561,1177,154,Rajarajeshwari Nagar,23,Bangalore Rural
+46,Rajiv Nagar,1.4949,33852,17446,16406,4704,583,156,Mahalaxmi Layout,24,Bangalore North
+47,Dr. Puneet Rajkumar,0.9736,35944,18654,17290,4867,737,156,Mahalaxmi Layout,24,Bangalore North
+48,Mahalakshmipuram,0.8486,42461,21890,20571,3503,424,156,Mahalaxmi Layout,24,Bangalore North
+49,Nagapura,2.5306,43143,21892,21251,3039,759,156,Mahalaxmi Layout,24,Bangalore North
+50,Nalvadi Krishna Raja Wadiyar,0.8561,42759,22287,20472,1894,558,156,Mahalaxmi Layout,24,Bangalore North
+51,Shankar Matt,0.6794,34993,18045,16948,4513,528,156,Mahalaxmi Layout,24,Bangalore North
+52,Shakthi Ganapathi Nagar,0.735,37861,19623,18238,4717,373,156,Mahalaxmi Layout,24,Bangalore North
+53,Vrisabhavathi Nagar,0.8534,43059,22877,20182,1551,748,156,Mahalaxmi Layout,24,Bangalore North
+54,Mattikere,0.8767,33878,18001,15877,4121,652,157,Malleswaram,24,Bangalore North
+55,Malleswaram,0.7971,38120,19676,18444,3910,717,157,Malleswaram,24,Bangalore North
+56,Aramane Nagara,7.4662,34185,17400,16785,3164,585,157,Malleswaram,24,Bangalore North
+57,Rajamahal Guttahalli,0.7705,34092,16990,17102,3673,397,157,Malleswaram,24,Bangalore North
+58,Kadu Malleshwar Ward,2.6449,33214,16216,16998,1055,274,157,Malleswaram,24,Bangalore North
+59,Subramanya Nagar,0.6546,36860,18670,18190,1031,429,157,Malleswaram,24,Bangalore North
+60,Gayithri Nagar,0.6458,33236,16934,16302,1022,325,157,Malleswaram,24,Bangalore North
+61,Radhakrishna Temple Ward,2.0746,36921,18993,17928,3457,736,158,Hebbal,24,Bangalore North
+62,Sanjaya Nagar,2.9781,34465,17710,16755,2577,576,158,Hebbal,24,Bangalore North
+63,Hebbala,1.3286,37550,19302,18248,5668,862,158,Hebbal,24,Bangalore North
+64,Vishwanath Nagenahalli,1.0899,32259,17051,15208,2757,463,158,Hebbal,24,Bangalore North
+65,Manorayanapalya,0.7227,32275,16673,15602,2484,353,158,Hebbal,24,Bangalore North
+66,Chamundi Nagara,0.6817,40675,20949,19726,1670,508,158,Hebbal,24,Bangalore North
+67,Ganga Nagar,0.9681,35373,18041,17332,3630,406,158,Hebbal,24,Bangalore North
+68,Jayachamarajendra  Nagar,1.4273,33247,16963,16284,3159,416,158,Hebbal,24,Bangalore North
+69,Kaval Bairasandra,1.6162,40682,20582,20100,4771,739,159,Pulakeshi Nagar (Sc),24,Bangalore North
+70,Kushal Nagar,0.5513,35194,17879,17315,4129,565,159,Pulakeshi Nagar (Sc),24,Bangalore North
+71,Muneshwara Nagar,0.5026,37624,19161,18463,6023,364,159,Pulakeshi Nagar (Sc),24,Bangalore North
+72,Devara Jeevanahalli,0.5154,38522,19706,18816,7371,366,159,Pulakeshi Nagar (Sc),24,Bangalore North
+73,S K Garden,1.7601,36225,18938,17287,5961,529,159,Pulakeshi Nagar (Sc),24,Bangalore North
+74,Sagayarapuram,0.7985,36876,18342,18534,10447,336,159,Pulakeshi Nagar (Sc),24,Bangalore North
+75,Pulikeshinagar,2.1434,36315,18137,18178,4753,541,159,Pulakeshi Nagar (Sc),24,Bangalore North
+76,Hennur,3.4851,36081,18612,17469,4770,571,160,Sarvargna Nagar,25,Bangalore Central
+77,Nagavara,1.5066,42383,21747,20636,3218,665,160,Sarvargna Nagar,25,Bangalore Central
+78,Hbr Layout,1.4813,42386,21569,20817,6020,987,160,Sarvargna Nagar,25,Bangalore Central
+79,Kadugondanahalli,0.5776,37866,19152,18714,4511,933,160,Sarvargna Nagar,25,Bangalore Central
+80,Kacharkanahalli,1.7678,33881,16936,16945,3429,528,160,Sarvargna Nagar,25,Bangalore Central
+81,Kammanahalli,1.5241,36282,18235,18047,4368,606,160,Sarvargna Nagar,25,Bangalore Central
+82,Banasavadi,2.4288,33446,17002,16444,4051,678,160,Sarvargna Nagar,25,Bangalore Central
+83,Subbayyanapalya,0.7338,35961,18204,17757,8096,919,160,Sarvargna Nagar,25,Bangalore Central
+84,Lingarajapura,1.1343,37322,18487,18835,3907,1108,160,Sarvargna Nagar,25,Bangalore Central
+85,Maruthi Seva Nagar,2.1844,39837,19804,20033,10212,344,160,Sarvargna Nagar,25,Bangalore Central
+86,Challakere,4.1204,37600,19453,18147,4169,465,151,K.R.Pura,24,Bangalore North
+87,Horamavu,13.1096,37824,19806,18018,5416,612,151,K.R.Pura,24,Bangalore North
+88,Kalkere,6.9274,42910,22138,20772,4542,1076,151,K.R.Pura,24,Bangalore North
+89,Vijinapura,2.57,37238,19238,18000,5227,661,151,K.R.Pura,24,Bangalore North
+90,Ramamurthy Nagar,1.7634,41393,21197,20196,11307,875,151,K.R.Pura,24,Bangalore North
+91,K R Puram,4.6114,41709,21410,20299,3964,1047,151,K.R.Pura,24,Bangalore North
+92,Basavanapura,6.0214,42178,21883,20295,7254,904,151,K.R.Pura,24,Bangalore North
+93,Devasandra,3.6365,42538,22772,19766,5559,841,151,K.R.Pura,24,Bangalore North
+94,A. Narayanapura,3.6151,43076,22491,20585,7968,657,151,K.R.Pura,24,Bangalore North
+95,Vijnana Nagar,2.649,39954,20919,19035,3709,437,151,K.R.Pura,24,Bangalore North
+96,Hal Airport,7.2249,40595,21101,19494,7658,1120,151,K.R.Pura,24,Bangalore North
+97,Kadugodi,10.2374,43039,23064,19975,4537,778,174,Mahadevapura (Sc),25,Bangalore Central
+98,Hudi,12.4629,37426,21084,16342,6542,655,174,Mahadevapura (Sc),25,Bangalore Central
+99,Byrathi,11.9219,37902,20990,16912,5160,868,174,Mahadevapura (Sc),25,Bangalore Central
+100,Garudachar Palya,4.6764,37813,21092,16721,5292,1025,174,Mahadevapura (Sc),25,Bangalore Central
+101,Dodda Nekkundi,4.3496,35998,19129,16869,5368,788,174,Mahadevapura (Sc),25,Bangalore Central
+102,Aecs Layout,6.1588,35972,18596,17376,3204,704,174,Mahadevapura (Sc),25,Bangalore Central
+103,White Field,8.1507,40876,21282,19594,5676,695,174,Mahadevapura (Sc),25,Bangalore Central
+104,Varthuru,28.408,39085,20076,19009,7098,662,174,Mahadevapura (Sc),25,Bangalore Central
+105,Munekollal,8.4752,40571,22949,17622,6248,845,174,Mahadevapura (Sc),25,Bangalore Central
+106,Marathahalli,9.9397,40767,23779,16988,4236,921,174,Mahadevapura (Sc),25,Bangalore Central
+107,Bellanduru,10.4016,42527,22504,20023,2535,585,174,Mahadevapura (Sc),25,Bangalore Central
+108,Cox Town,4.0105,41979,21250,20729,16662,630,161,C.V. Raman Nagar (Sc),25,Bangalore Central
+109,Benniganahalli,3.7604,32869,18013,14856,3353,903,161,C.V. Raman Nagar (Sc),25,Bangalore Central
+110,C V Raman Nagar,2.8627,38318,20100,18218,7318,596,161,C.V. Raman Nagar (Sc),25,Bangalore Central
+111,Kaggadasanapura,1.6453,33145,17110,16035,1543,501,161,C.V. Raman Nagar (Sc),25,Bangalore Central
+112,New Tippasandara,3.2182,42872,22211,20661,4409,774,161,C.V. Raman Nagar (Sc),25,Bangalore Central
+113,Hoysala Nagar,2.0498,35228,17474,17754,11220,398,161,C.V. Raman Nagar (Sc),25,Bangalore Central
+114,Jeevanbhima Nagar,1.8485,33649,17114,16535,7012,672,161,C.V. Raman Nagar (Sc),25,Bangalore Central
+115,Konena Agrahara,2.16,42710,22306,20404,6875,312,161,C.V. Raman Nagar (Sc),25,Bangalore Central
+116,Ramaswamypalya,0.8298,34394,17305,17089,8666,268,162,Shivaji Nagar,25,Bangalore Central
+117,Vasanthnagar,4.3627,37267,18190,19077,3343,396,162,Shivaji Nagar,25,Bangalore Central
+118,Sampangiram Nagar,3.9693,36827,18714,18113,4448,242,162,Shivaji Nagar,25,Bangalore Central
+119,Shivaji Nagar,1.1449,34087,17359,16728,1791,189,162,Shivaji Nagar,25,Bangalore Central
+120,Bharathi Nagar,0.627,33808,17190,16618,2725,105,162,Shivaji Nagar,25,Bangalore Central
+121,Ulsoor,1.8085,35343,19749,15594,8589,369,162,Shivaji Nagar,25,Bangalore Central
+122,Dattatreya Temple,0.7948,37419,19148,18271,4895,488,164,Gandhi Nagar,25,Bangalore Central
+123,Gandhinagar,1.9501,32319,17899,14420,6379,264,164,Gandhi Nagar,25,Bangalore Central
+124,Subhash Nagar,1.2378,33719,17295,16424,14923,594,164,Gandhi Nagar,25,Bangalore Central
+125,Okalipuram,0.7694,34164,17484,16680,5273,334,164,Gandhi Nagar,25,Bangalore Central
+126,Binnipete,0.8103,40033,20517,19516,5857,1004,164,Gandhi Nagar,25,Bangalore Central
+127,Cottonpete,0.7482,37500,19256,18244,5504,445,164,Gandhi Nagar,25,Bangalore Central
+128,Chickpete,0.7129,33292,17629,15663,277,185,164,Gandhi Nagar,25,Bangalore Central
+129,Dayananda Nagar,0.547,42587,21728,20859,11129,304,165,Rajaji Nagar,25,Bangalore Central
+130,Sriramamandir,0.9893,40645,20674,19971,1861,291,165,Rajaji Nagar,25,Bangalore Central
+131,Shivanagara,0.9498,36054,18623,17431,960,468,165,Rajaji Nagar,25,Bangalore Central
+132,Rajaji Nagar,1.0879,42987,22043,20944,3621,418,165,Rajaji Nagar,25,Bangalore Central
+133,Basaveshwara Nagar,0.7282,33122,17204,15918,1838,536,165,Rajaji Nagar,25,Bangalore Central
+134,Kamakshipalya,1.162,37034,19207,17827,3029,569,165,Rajaji Nagar,25,Bangalore Central
+135,Dr. Raj Kumar Agrahara Dasarahalli,1.2212,38772,20073,18699,4561,1060,166,Govindraja Nagar,26,Bangalore South
+136,Govindaraja Nagar,1.1009,35632,18382,17250,3209,627,166,Govindraja Nagar,26,Bangalore South
+137,Marenahalli,0.9978,32005,16399,15606,1273,377,166,Govindraja Nagar,26,Bangalore South
+138,Kaveripura,1.2868,35628,19334,16294,1543,726,166,Govindraja Nagar,26,Bangalore South
+139,Mudalapalya,0.67,32137,16719,15418,1476,637,166,Govindraja Nagar,26,Bangalore South
+140,Maruthi Mandir Ward,0.7818,32510,16952,15558,1500,492,166,Govindraja Nagar,26,Bangalore South
+141,Nagarabhavi,2.1696,33584,17168,16416,2320,495,166,Govindraja Nagar,26,Bangalore South
+142,Chandralayout,0.8558,32840,16772,16068,2100,411,166,Govindraja Nagar,26,Bangalore South
+143,Nayandahalli,1.2405,32617,16856,15761,4990,619,166,Govindraja Nagar,26,Bangalore South
+144,Kempapura Agrahara,0.339,36710,18704,18006,872,2247,167,Vijaya Nagar,26,Bangalore South
+145,Vijayanagar,0.6327,35209,18264,16945,1670,558,167,Vijaya Nagar,26,Bangalore South
+146,Hosahalli,0.7694,39400,20046,19354,4832,954,167,Vijaya Nagar,26,Bangalore South
+147,Hampi Nagar,1.1807,34725,17664,17061,1599,436,167,Vijaya Nagar,26,Bangalore South
+148,New Guddadahalli,0.7036,33516,17496,16020,2169,531,167,Vijaya Nagar,26,Bangalore South
+149,Gali Anjaneya Temple Ward,0.6599,34112,17585,16527,4799,836,167,Vijaya Nagar,26,Bangalore South
+150,Attiguppe,1.1847,37120,19150,17970,2016,354,167,Vijaya Nagar,26,Bangalore South
+151,Deepanjali Nagar,1.9093,34862,18290,16572,3267,830,167,Vijaya Nagar,26,Bangalore South
+152,Avalahalli,1.0033,38721,20108,18613,2797,422,167,Vijaya Nagar,26,Bangalore South
+153,Padarayanapura,0.2785,33665,17354,16311,134,65,168,Chamarajpet,25,Bangalore Central
+154,Rayapuram,0.31,34303,17386,16917,13039,372,168,Chamarajpet,25,Bangalore Central
+155,Devaraj Urs Nagar,0.6172,36799,18847,17952,4506,333,168,Chamarajpet,25,Bangalore Central
+156,Chalavadipalya,0.5945,32311,16402,15909,15383,297,168,Chamarajpet,25,Bangalore Central
+157,K R Market,0.9023,32311,16607,15704,10533,365,168,Chamarajpet,25,Bangalore Central
+158,Chamrajapet,1.008,33626,17186,16440,918,641,168,Chamarajpet,25,Bangalore Central
+159,Azad Nagar,0.6078,34445,17561,16884,2361,1348,168,Chamarajpet,25,Bangalore Central
+160,Dharmaraya Swamy Temple,1.3684,39056,20229,18827,6533,308,169,Chickpet,26,Bangalore South
+161,Silver Jublee Park,1.3618,33453,17067,16386,7781,275,169,Chickpet,26,Bangalore South
+162,Sunkenahalli,2.293,42697,21705,20992,1491,436,169,Chickpet,26,Bangalore South
+163,Vishveshwara Puram,2.9537,39543,19779,19764,2422,910,169,Chickpet,26,Bangalore South
+164,Hombegowda Nagar,1.2081,42905,21796,21109,6947,747,169,Chickpet,26,Bangalore South
+165,B Venkata Reddy Nagar,1.452,36673,18741,17932,5692,685,169,Chickpet,26,Bangalore South
+166,Shanthi Nagar,1.3615,33300,16917,16383,5524,475,163,Shanti Nagar,25,Bangalore Central
+167,Ashok Nagar,4.768,32658,16340,16318,6433,414,163,Shanti Nagar,25,Bangalore Central
+168,Nilasandra,0.4268,39112,21365,17747,2811,375,163,Shanti Nagar,25,Bangalore Central
+169,Vannarpet,1.2721,32865,19347,13518,6037,1280,163,Shanti Nagar,25,Bangalore Central
+170,Jogupalya,1.8597,41298,20518,20780,10352,548,163,Shanti Nagar,25,Bangalore Central
+171,Domlur,2.0248,39954,20254,19700,7289,949,163,Shanti Nagar,25,Bangalore Central
+172,Agaram,9.902,32844,16767,16077,11981,507,163,Shanti Nagar,25,Bangalore Central
+173,Ejipura,1.0611,40397,21344,19053,7672,850,172,B.T.M. Layout,26,Bangalore South
+174,Koramangala,2.949,36254,18539,17715,4848,692,172,B.T.M. Layout,26,Bangalore South
+175,Jakkasandra,2.0558,41738,22368,19370,5569,1387,172,B.T.M. Layout,26,Bangalore South
+176,Adugodi,2.631,34751,17589,17162,6765,912,172,B.T.M. Layout,26,Bangalore South
+177,Lakkasandra,1.2934,30667,15786,14881,5425,510,172,B.T.M. Layout,26,Bangalore South
+178,Suddagunte Palya,1.6495,37333,20375,16958,3276,415,172,B.T.M. Layout,26,Bangalore South
+179,Madivala,0.6433,32659,18072,14587,2208,575,172,B.T.M. Layout,26,Bangalore South
+180,Someswara Temple Ward,1.7121,32375,16685,15690,2305,361,172,B.T.M. Layout,26,Bangalore South
+181,Btm Layout,1.0037,32504,17875,14629,2707,501,172,B.T.M. Layout,26,Bangalore South
+182,Byrasandra,1.1025,39796,20237,19559,5212,975,173,Jayanagar,26,Bangalore South
+183,Gurappanapalya,0.8967,40817,20858,19959,2727,284,173,Jayanagar,26,Bangalore South
+184,Jayanagar East,0.8021,33353,17257,16096,3789,386,173,Jayanagar,26,Bangalore South
+185,J P Nagar,1.7584,33556,16848,16708,3662,336,173,Jayanagar,26,Bangalore South
+186,Shakambari Nagar,2.9522,40716,20526,20190,1465,497,173,Jayanagar,26,Bangalore South
+187,Sarakki,1.7822,41590,21441,20149,3099,598,173,Jayanagar,26,Bangalore South
+188,Yediyur,1.9065,35798,17928,17870,1675,653,171,Padmanaba Nagar,26,Bangalore South
+189,Ganesh Mandir Ward,1.6919,41923,20905,21018,1420,408,171,Padmanaba Nagar,26,Bangalore South
+190,Devagiri Temple Ward,1.1406,34546,17524,17022,2337,589,171,Padmanaba Nagar,26,Bangalore South
+191,Banashankari Temple Ward,0.7033,33264,16942,16322,2352,1198,171,Padmanaba Nagar,26,Bangalore South
+192,Kumaraswamy Layout,1.5443,39477,20445,19032,1983,548,171,Padmanaba Nagar,26,Bangalore South
+193,Padmanabha Nagar,1.4791,39418,20208,19210,2063,249,171,Padmanaba Nagar,26,Bangalore South
+194,Chikkalsandra,0.9433,40297,20936,19361,693,364,171,Padmanaba Nagar,26,Bangalore South
+195,Hosakerehalli,1.2267,41630,22419,19211,1801,513,171,Padmanaba Nagar,26,Bangalore South
+196,Gavi Gangadhareshwara,0.8833,36487,18664,17823,1541,525,170,Basavanagudi,26,Bangalore South
+197,Srinagar,0.5586,36078,18691,17387,918,992,170,Basavanagudi,26,Bangalore South
+198,Dodda Ganapati,1.6198,42285,21320,20965,477,336,170,Basavanagudi,26,Bangalore South
+199,Vidyapeeta Ward,0.8692,42631,21792,20839,2401,803,170,Basavanagudi,26,Bangalore South
+200,Swamy Vivekananda,1.3383,42797,21641,21156,530,449,170,Basavanagudi,26,Bangalore South
+201,Katriguppe,1.7978,42973,21935,21038,1415,615,170,Basavanagudi,26,Bangalore South
+202,Uttarahalli,1.8223,39370,20354,19016,1794,716,176,Bangalore South,23,Bangalore Rural
+203,Subrahmanyapura,9.1886,37014,19356,17658,3575,674,176,Bangalore South,23,Bangalore Rural
+204,Vasanthpura,3.3542,35615,18734,16881,5301,849,176,Bangalore South,23,Bangalore Rural
+205,Yelchenahalli,1.1598,42186,22019,20167,2692,380,176,Bangalore South,23,Bangalore Rural
+206,Konanakunte,3.2117,41028,21453,19575,2488,362,176,Bangalore South,23,Bangalore Rural
+207,Rbi Layout,3.4813,42074,21352,20722,1679,475,176,Bangalore South,23,Bangalore Rural
+208,Anjanapura,11.045,40478,20785,19693,4380,504,176,Bangalore South,23,Bangalore Rural
+209,Gottigere,6.2909,41688,21670,20018,5486,645,176,Bangalore South,23,Bangalore Rural
+210,Kalena Agrahara,10.6203,38932,20336,18596,4687,669,176,Bangalore South,23,Bangalore Rural
+211,Begur,6.7379,35004,18388,16616,2571,568,176,Bangalore South,23,Bangalore Rural
+212,Naganathapura,5.262,34452,20622,13830,4155,919,176,Bangalore South,23,Bangalore Rural
+213,Jaraganahalli,1.2801,37963,19788,18175,1567,870,175,Bommanahalli,26,Bangalore South
+214,Puttenahalli,1.7164,42149,21940,20209,1829,494,175,Bommanahalli,26,Bangalore South
+215,Bilekhalli,3.3846,42179,22189,19990,2621,331,175,Bommanahalli,26,Bangalore South
+216,Hulimavu,5.6339,42690,22446,20244,4664,904,175,Bommanahalli,26,Bangalore South
+217,Kodichikkanahalli,3.463,37559,19809,17750,2827,473,175,Bommanahalli,26,Bangalore South
+218,Bommanahalli,1.3081,35206,18401,16805,3387,413,175,Bommanahalli,26,Bangalore South
+219,Hongasandra,0.9292,38184,20587,17597,2291,895,175,Bommanahalli,26,Bangalore South
+220,Gharebhavipalya,1.8005,40896,22121,18775,2738,919,175,Bommanahalli,26,Bangalore South
+221,Hsr Layout,4.221,38763,20138,18625,3327,642,175,Bommanahalli,26,Bangalore South
+222,Ibluru,3.7151,33851,17764,16087,2827,486,175,Bommanahalli,26,Bangalore South
+223,Mangammanapalya,1.6594,40149,21038,19111,3292,651,175,Bommanahalli,26,Bangalore South
+224,Hosa Road,3.2714,33979,18432,15547,3942,744,175,Bommanahalli,26,Bangalore South
+225,Kudlu,3.3325,16757,9054,7703,2910,428,177,Anekal (Sc),23,Bangalore Rural
