@@ -1,0 +1,6 @@
+TODO_list
+
+installed tensorflow lib
+visual studio Redistributable Version installed
+Installed optree
+Keras
